@@ -6,6 +6,7 @@
 ### A Taste of Advanced Scala
 * [Scala Recap](src/main/scala/lectures/Recap.scala)
 * [Dark Syntactic Sugars](src/main/scala/lectures/Recap.scala)
+* [Advanced Pattern Matching, Part 1](src/main/scala/lectures/AdvancedPatternMatchingPart1.scala)
 
 ### Advanced Functional Programming
 
